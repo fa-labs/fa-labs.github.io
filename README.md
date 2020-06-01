@@ -1,2 +1,2 @@
-# fa-labs.github.io
-Official website of FA Labs
+# FA Labs
+The open-source initiative of FA Solutions Oy
